@@ -1,4 +1,4 @@
-#Excel Sales-and-Finance-Analytics
+Excel Sales-and-Finance-Analytics
 
 📊 Objective:
 AtliQ Hardware, a dynamic player in computer hardware and peripherals, caters to major clients like Amazon, Flipkart, Neptune, Croma, and its own e-stores, utilizing various channels such as direct, retailer, and distribution. The challenge was clear – extract meaningful insights from the labyrinth of sales and finance data.
